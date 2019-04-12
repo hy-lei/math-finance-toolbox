@@ -15,5 +15,5 @@ Simple demo of concepts/models in Baxter & Rennie (1996).  At present, the binom
 
 ## TODO
 - Test cases
-- Generator pattern in swap rate calculation
 - Demo for modelling continuous time processes
+- Interest rate models
