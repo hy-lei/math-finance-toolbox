@@ -1,14 +1,17 @@
 # math-finance-exercise
 
 ## Toolbox
-Contains python implementation of some frequently-used bond pricing functions:
-- Yield to Maturity (YTM)
-- Present Value (PV)
-- Future Value (FV)
-- Number of Periods (N)
-- Swap Rate (swap_rate)
+### Availability:
+- [x] Yield to Maturity (YTM)
+- [x] Present Value (PV)
+- [x] Future Value (FV)
+- [x] Number of Periods (N)
+- [x] Swap Rate (swap_rate)
+- [x] Interest rate models: KWF branch
 
-In particular, YTM and swap rate are determined using the Newton-Raphson method.
+### Methodologies
+- YTM and swap rate are determined using the Newton-Raphson method.
+- KWF branch returns the larger analytical solution.
 
 ## Other Notebooks
 Simple demo of concepts/models in Baxter & Rennie (1996).  At present, the binomial approach to model discrete process is included.
